@@ -1,0 +1,1 @@
+print("pakistan");print("india")
